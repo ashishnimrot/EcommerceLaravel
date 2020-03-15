@@ -25,6 +25,7 @@
 ## Installation
 
 - `git clone https://github.com/ashishnimrot/EcommerceLaravel.git`
+- `cd EcommerceLaravel`
 - `composer install`
 -  Edit `.env` and set your database connection details 
 - `php artisan key:generate`
