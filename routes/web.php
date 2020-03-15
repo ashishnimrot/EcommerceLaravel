@@ -13,6 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', "ProductController@index")->name('home');
+Route::get('/setCountry/{name}', "Controller@setCountry");

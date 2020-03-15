@@ -1,0 +1,15 @@
+.card-deck .card {
+    flex: 1 0 23% !important;
+    margin-bottom: 15px !important;
+}
+
+
+.list-group-item.active a,
+.list-group-item+.list-group-item.active a{
+    color: #ffffff;
+}
+
+
+.card {
+    max-width: 368px;
+}

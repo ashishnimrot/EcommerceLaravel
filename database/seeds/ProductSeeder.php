@@ -21,7 +21,7 @@ class ProductSeeder extends Seeder
         ]);
 
         Product::insert([
-            'name' => 'Product 1',
+            'name' => 'Product 2',
             'category_id' => 2,
             'price' => 200.00,
             'description' => "Product 2 description",
