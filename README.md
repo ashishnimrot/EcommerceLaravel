@@ -3,7 +3,7 @@
 > A Laravel Shopping Website
 
 <p align="center">
-    <img src="https://github.com/ashishnimrot/EcommerceLaravel/blob/master/GetLocalCountryDetail.png.png">
+    <img src="https://github.com/ashishnimrot/EcommerceLaravel/blob/master/GetLocalCountryDetail.png">
 </p>
 
 ## Features
