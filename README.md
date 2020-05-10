@@ -8,7 +8,7 @@
 
 ## Features
 
-- Laravel 6.3
+- Laravel 7.0
 - Display only the first 6 products with images and amounts.
 - Sort option based on prize low to high or high to low.
 - Filter option based on the product category.
